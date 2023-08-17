@@ -242,7 +242,7 @@ namespace InstantPets
 		public static bool HasMadePetSelection()
 		{
 			return Game1.MasterPlayer.eventsSeen.Contains(Utils.EventIdCat)
-				|| Game1.MasterPlayer.eventsSeen.Contains(Utils.EventIdCat)
+				|| Game1.MasterPlayer.eventsSeen.Contains(Utils.EventIdDog)
 				|| Game1.MasterPlayer.mailReceived.Contains(Utils.MailIdRejected)
 				|| Game1.MasterPlayer.hasPet();
 		}
