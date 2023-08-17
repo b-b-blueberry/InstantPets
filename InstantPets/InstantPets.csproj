@@ -3,11 +3,10 @@
   <PropertyGroup>
     <AssemblyName>InstantPets</AssemblyName>
     <RootNamespace>InstantPets</RootNamespace>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <TargetFramework>net5.0</TargetFramework>
     <Platforms>AnyCPU</Platforms>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <EnableHarmony>true</EnableHarmony>
   </PropertyGroup>
 
   <ItemGroup>
